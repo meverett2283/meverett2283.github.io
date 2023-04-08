@@ -23,7 +23,7 @@ email: noobstarbot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Become a part of the Starbot Society.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://noobstarbot.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: noobstarbot
 github_username:  
 
